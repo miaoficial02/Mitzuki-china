@@ -60,7 +60,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/miaoficial02/Luna-bot-v1 && cd Luna-bot-v1
+git clone https://github.com/miaoficial02/Mitzuki-china && cd Mitzuki-china
 ```
 
 ```bash
@@ -88,7 +88,7 @@ npm start
 🔰 Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Luna-bot-v1
+    cd Mitzuki-china
    ```
 
 🔰 Inicia el bot nuevamente:
@@ -102,7 +102,7 @@ npm start
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
    ```bash
-    cd Luna-bot-v1 && nano settings.js
+    cd Mitzuki-china && nano settings.js
    ```
 
 </details>
