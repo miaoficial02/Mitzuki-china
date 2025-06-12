@@ -33,20 +33,20 @@ global.prems = ['5492645739976']
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.16' 
 global.vs = '2.2.0'
-global.nameqr = '𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷'
-global.namebot = '𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷'
+global.nameqr = '𝑀𝐼𝑇𝑍𝑈𝐾𝐼-𝐴𝐼'
+global.namebot = '𝑀𝐼𝑇𝑍𝑈𝐾𝐼-𝐴𝐼'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.yukiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷'
-global.botname = '𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷'
-global.wm = '𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷'
+global.packname = '𝑀𝐼𝑇𝑍𝑈𝐾𝐼'
+global.botname = '𝑀𝐼𝑇𝑍𝑈𝐾𝐼-𝐴𝐼'
+global.wm = '𝑀𝐼𝑇𝑍𝑈𝐾𝐼-𝐴𝐼'
 global.author = 'Made By @its.mia.oficial'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ @its.mia.oficial'
-global.textbot = '𝐿𝑈𝑁𝐴-𝐵𝑂𝑇-𝑀𝐷 • Powered By @its.mia.oficial'
+global.textbot = '𝑀𝐼𝑇𝑍𝑈𝐾𝐼-𝐴𝐼 • Powered By @its.mia.oficial'
 global.etiqueta = '@its.mia.oficial'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
