@@ -2,7 +2,7 @@
 
 <h1 align="center">🇨🇳 𝑀𝐼𝑇𝑍𝑈𝐾𝐼 🇨🇳</h1>
 
- <img src= "https://files.catbox.moe/g77xv3.png">
+ <img src= "https://files.catbox.moe/luq8c4.png">
     </p>
 🧠 𝐍𝐎𝐓𝐀:
 
