@@ -39,12 +39,12 @@ const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 
 let { say } = cfonts
 
-console.log(chalk.bold.redBright(`\n✰ Iniciando Luna-Bot-V1 ✰\n`))
+console.log(chalk.bold.redBright(`\n✰ Iniciando Mitzuki-AI ✰\n`))
 
-say('Luna-Bot-V1', {
+say('Mitzuki-AI', {
 font: 'block',
 align: 'center',
-colors: ['magentaBright']
+colors: ['red']
 })
 
 say(`Developed By • @its.mia.oficial`, {
@@ -63,7 +63,7 @@ return path.dirname(global.__filename(pathURL, true))
 }; global.__require = function require(dir = import.meta.url) {
 return createRequire(dir)
 }
-
+ 
 global.API = (name, path = '/', query = {}, apikeyqueryname) => (name in global.APIs ? global.APIs[name] : name) + path + (query || apikeyqueryname ? '?' + new URLSearchParams(Object.entries({...query, ...(apikeyqueryname ? {[apikeyqueryname]: global.APIKeys[name in global.APIs ? global.APIs[name] : name]} : {})})) : '');
 
 global.timestamp = {start: new Date}
@@ -206,7 +206,7 @@ if (opcion == '1' || methodCodeQR) {
 console.log(chalk.bold.yellow(`\n❐ ESCANEA EL CÓDIGO QR EXPIRA EN 45 SEGUNDOS`))}
 }
 if (connection == 'open') {
-console.log(chalk.bold.green('\n❀ Luna-Bot-V1 conectada con éxito ❀'))
+console.log(chalk.bold.green('\n❀ Mitzuki-AI conectada con éxito ❀'))
 }
 let reason = new Boom(lastDisconnect?.error)?.output?.statusCode
 if (connection === 'close') {
