@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=FF0000&lines=𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨+𝐚𝐥+𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨+𝐎𝐟𝐢𝐜𝐢𝐚𝐥+𝐝𝐞;🇨🇳𝑀𝐼𝑇𝑍𝑈𝐾𝐼-𝐴𝐼🇨🇳;𝐆𝐫𝐚𝐜𝐢𝐚𝐬+𝐩𝐨𝐫+𝐩𝐫𝐞𝐟𝐞𝐫𝐢𝐫𝐧𝐨𝐬;𝐂𝐫𝐞𝐚𝐝𝐨+𝐩𝐨𝐫+@𝐢𝐭𝐬.𝐦𝐢𝐚.𝐨𝐟𝐢𝐜𝐢𝐚𝐥+👑+🌹)
 
-<h1 align="center">🇨🇳 𝑀𝐼𝑇𝑍𝑈𝐾𝐼 🇨🇳</h1>
+<h1 align="center"> ⏤͟͟͞͞𝑀𝐼𝑇𝑍𝑈𝐾𝐼-𝐴𝐼 </h1>
 
  <img src= "https://files.catbox.moe/luq8c4.png">
     </p>
