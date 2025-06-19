@@ -568,7 +568,7 @@ Crea un *Sub-Bot* con tu número utilizando *#qr* o *#code*
           externalAdReply: {
               title: botname,
               body: textbot,
-              thumbnailUrl: banner,
+              thumbnailUrl: https:"files.catbox.moe/luq8c4.png",
               sourceUrl: redes,
               mediaType: 1,
               showAdAttribution: true,
