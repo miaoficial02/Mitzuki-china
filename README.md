@@ -1,18 +1,23 @@
-<h1 align="center">✦ Yυƙι Sυσυ ✦</h1>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=FF0000&lines=𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨+𝐚𝐥+𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨+𝐎𝐟𝐢𝐜𝐢𝐚𝐥+𝐝𝐞;🇨🇳𝑀𝐼𝑇𝑍𝑈𝐾𝐼-𝐴𝐼🇨🇳;𝐆𝐫𝐚𝐜𝐢𝐚𝐬+𝐩𝐨𝐫+𝐩𝐫𝐞𝐟𝐞𝐫𝐢𝐫𝐧𝐨𝐬;𝐂𝐫𝐞𝐚𝐝𝐨+𝐩𝐨𝐫+@𝐢𝐭𝐬.𝐦𝐢𝐚.𝐨𝐟𝐢𝐜𝐢𝐚𝐥+👑+🌹)
 
- <img src= "https://files.catbox.moe/om9jai.jpg">
+<h1 align="center"> ✧𝑀𝐼𝑇𝑍𝑈𝐾𝐼-𝐴𝐼✧ </h1>
+
+ <img src= "https://files.catbox.moe/luq8c4.png">
     </p>
+🧠 𝐍𝐎𝐓𝐀:
 
-### **`❕️ Información importante`**
+Este bot se encuentra en constante desarrollo. Puedes usarlo, editarlo o mejorarlo libremente bajo tu responsabilidad.
+
+### **`❗ Información importante❗`**
 
 <details>
- <summary><b> ➮ Info • Bot</b></summary>
+ <summary><b> 🌹 Info • Bot</b></summary>
 
 * Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
 </details>
 
 <details>
- <summary><b> ➮ Funciones</b></summary>
+ <summary><b> 🌹 Funciones</b></summary>
 
 > Bot en desarrollo si presenta alguna falla reportar al creador para darle una solución óptima.
 
@@ -35,16 +40,16 @@
 
 ---
 
-### **`✧ Click en la imagen para descargar termux ✧`**
+### **`🇨🇳 Click en la imagen para descargar termux`**
 <a
 href="https://www.mediafire.com/file/llugt4zgj7g3n3u/com.termux_1020.apk/file"><img src="https://qu.ax/finc.jpg" height="125px"></a> 
 
-### **`➮ Instalación por termux`**
+### **`🌹Instalación por termux`**
 
 <details>
- <summary><b> ✎ Click para ver los Comandos </b></summary>
+ <summary><b> 🌹 Click para ver los Comandos </b></summary>
 
-### **❀ Instalación manual por termux**
+### **🌹Instalación manual por termux**
 > Nota: Copie y pegue los comandos en termux uno por uno.
 ```bash
 termux-setup-storage
@@ -55,7 +60,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/The-King-Destroy/Yuki_Suou-Bot && cd Yuki_Suou-Bot
+git clone https://github.com/miaoficial02/Mitzuki-china && cd Mitzuki-china
 ```
 
 ```bash
@@ -76,122 +81,65 @@ npm start
 
 > Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación
 
-### **🜸 Activar en caso de detenerse en termux**
+### **🇨🇳 Activar en caso de detenerse en termux🇨🇳**
 
 > Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
 
-❒ Abre Termux y navega al directorio del bot:
+🇨🇳 Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Yuki_Suou-Bot
+    cd Mitzuki-china
    ```
 
-❒ Inicia el bot nuevamente:
+🇨🇳 Inicia el bot nuevamente:
   
    ```bash
     npm start
    ```
 
-### **✰ Volverte owner del Bot**
+### **⚙🌹 Volverte owner del Bot**
 
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
    ```bash
-    cd Yuki_Suou-Bot && nano settings.js
+    cd Mitzuki-china && nano settings.js
    ```
 
 </details>
 
 ---
-### **`➮ Enlaces útiles`**
+### **`🇨🇳 Enlaces Útiles 🇨🇳`**
+<p align="center">
+  <a href="mailto:itss.mia.oficial@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href=""https://t.me/@Itssmiaoficial">
+    <img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+   <a href="https://whatsapp.com/channel/0029VbBOqfT5q08ULqdpok3Z">
+    <img src="https://img.shields.io/badge/WHATSAPP-1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://whatsapp.com/channel/0029Van1PcoFSAt50tWN4d0x">
+    <img src="https://img.shields.io/badge/WHATSAPP-2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
-<details>
- <summary><b> 🜸 Enlaces Oficiales </b></summary>
-
- * Canal Oficial  [`¡Click aquí!`](https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d)
-* Grupo Oficial [`¡Click aquí!`](https://chat.whatsapp.com/GeMUm4iACPPKRPrKBRKM8c)
-* Comunidad Oficial [`¡Click aquí!`](https://chat.whatsapp.com/I0dMp2fEle7L6RaWBmwlAa)
-</details>
-
-<details>
-<summary><b> ✰ Contáctos</b></summary>
-
-* WhatsApp: [`Aquí`](https://wa.me/522202410659)
-* Correo: [`Aquí`](thekingdestroy507@gmail.com)
+<p align="center">
+  <a href="https://facebook.com/Mia Roslyakova">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/its.mia.oficial">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 </details>
 
 ---
 
-### **`✧ SKY-ULTRA-PLUS ✧`**
-
+### **`♡ Propietaria ♡`**
 <a
-href="https://dash.skyultraplus.com/home"><img src="https://qu.ax/zFzXF.png" height="125px"></a>
+href="https://github.com/miaoficial02"><img src="https://github.com/miaoficial02.png" width="130" height="130" alt="
+@𝐢𝐭𝐬.𝐦𝐢𝐚.𝐨𝐟𝐢𝐜𝐢𝐚𝐥"/></a>
 
-<details>
- <summary><b> ❒ Servidor Sky-Ultra-Plus</b></summary>
-
-* Dashboard : [`Dash`](https://dash.skyultraplus.com)
-* Panel : [`Panel`](https://panel.skyultraplus.com)
-* Canal de WhatsApp : [`Canal Sky`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
-* Comunidad : [`Aquí`](https://chat.whatsapp.com/JPwcXvPEUwlEOyjI3BpYys)
-* Contacto : [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1)
-
-</details>
-
----
-
-### **` °¤ BoxMineWorld ¤°`**
-
-<a href="https://boxmineworld.com">
-  <img width="125px" src="https://i.imgur.com/allAyd4.png"/>
-</a>
-
-<details>
- <summary><b> ❒ Servidor BoxMineWorld</b></summary>
-
-* Pagina Oficial: [`Boxmineworld`](https://boxmineworld.com)
-* Tutorial - Crear cuenta en la Dashboard: [`Dashboard`](https://www.youtube.com/watch?v=ZAwBLuNmIlI)
-* Dashboard: [`Dash`](https://dash.boxmineworld.com)
-* Panel: [`Aquí`](https://panel.boxmineworld.com)
-* Dudas sobre el Host: [`Discord`](https://discord.gg/84qsr4v) _(Preguntar por Vicemi)_
-* Canal de WhatsApp: [`Aquí`](https://whatsapp.com/channel/0029Va71C1q2UPBOICnxu83r)
-
-</details>
-
----
-
-### **`✦ AKIRAX ✦`**
-
-<a
-href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1748713078525.jpeg" height="125px"></a>
-
-<details>
- <summary><b> ❒ Servidor Akirax</b></summary>
-
-* Dashboard : [`Dash`](https://home.akirax.net)
-* Panel : [`Panel`](https://console.akirax.net)
-* Canal de WhatsApp : [`Aqui`](https://whatsapp.com/channel/0029VbBCchVDJ6H6prNYfz2z)
-* Grupo Oficial : [`Aquí`](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)
-
-</details>
-
----
-
-### **`❀ Colaboradores`**
-<a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=The-King-Destroy/Yuki_Suou-Bot" /> 
-</a>
-
-### **`ᥫ᭡ Propietario`**
-<a
-href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="
-ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"/></a>
-
-### **`🜸 Créditos`**
-<a href="https://github.com/DevAlexJs" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/DevAlexJs.png" width="130" height="130" alt="Alex-X" style="border-radius: 50%;"/>
-</a>
-<a href="https://github.com/BrunoSobrino" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="Bruno Ofc" style="border-radius: 50%;"/>
-</a>
+**|♡𝑃𝑂𝑊𝐸𝑅𝐸𝐷 𝐵𝑌:@𝐼𝑇𝑆.𝑀𝐼𝐴.𝑂𝐹𝐼𝐶𝐼𝐴𝐿**
