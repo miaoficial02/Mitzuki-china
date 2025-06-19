@@ -102,7 +102,7 @@ npm start
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
    ```bash
-    cd Mitzuki-IA && nano settings.js
+    cd Mitzuki-AI && nano settings.js
    ```
 
 </details>
