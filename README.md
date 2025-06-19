@@ -60,7 +60,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/miaoficial02/Mitzuki-china && cd Mitzuki-china
+git clone https://github.com/miaoficial02/Mitzuki-AI && cd Mitzuki-AI
 ```
 
 ```bash
@@ -88,7 +88,7 @@ npm start
 🇨🇳 Abre Termux y navega al directorio del bot:
    
    ```bash
-    cd Mitzuki-china
+    cd Mitzuki-AI
    ```
 
 🇨🇳 Inicia el bot nuevamente:
@@ -102,7 +102,7 @@ npm start
 > Si después de instalar el bot en Termux y iniciar la session del bot (deseas poner tu número es la lista de owner pon este comando:
 
    ```bash
-    cd Mitzuki-china && nano settings.js
+    cd Mitzuki-IA && nano settings.js
    ```
 
 </details>
